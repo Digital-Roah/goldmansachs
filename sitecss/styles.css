@@ -515,3 +515,62 @@ body p {
     border: 2px solid black;
     background: white;
 }
+
+.auth-card {
+    padding: 50px 40px;
+}
+
+.auth-bg {
+        position: fixed;
+        top: 0;
+        right: 0;
+        background-color: #00355f;
+        height: 100vh;
+        width: 50%;
+        background-image: url(../siteimg/eb155ca3c62f12fad509.svg);
+        background-size: cover;
+        background-position: right bottom;
+        background-repeat: no-repeat;
+}
+
+.auth-card h3 {
+    color: #00355f;
+    font-family: 'GoldmanSans', sans-serif;
+}
+
+.auth-form .form-group {
+    margin-top: 10px;
+}
+
+.auth-form .form-group .form-label {
+    font-weight: 500;
+}
+
+.auth-form .form-group .form-control {
+    background: transparent;
+    border-radius: 0px;
+    border: 1px solid rgb(170, 170, 170);
+}
+
+.auth-form .form-group .form-control:focus {
+    box-shadow: none;
+}
+
+.forgot-link {
+    text-decoration: none;
+    color: #00355f;
+}
+
+.btn-auth {
+    background: #00355f;
+    color: white;
+    border-radius: 0px;
+    padding: 10px 30px;
+    border: 1px solid #00355f;
+}
+
+.btn-auth:hover {
+    color: #00355f;
+    border: 1px solid #00355f;
+    background: white;
+}
