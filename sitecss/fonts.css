@@ -1,0 +1,109 @@
+@font-face {
+    font-family: "GoldmanSans";
+    font-weight: 100;
+    font-style: normal;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-thin.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-thin.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GoldmanSans";
+    font-weight: 300;
+    font-style: normal;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-light.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GoldmanSans";
+    font-weight: 400;
+    font-style: normal;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GoldmanSans";
+    font-style: italic;
+    font-weight: 400;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular-italic.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular-italic.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GoldmanSansCondensed";
+    font-weight: 400;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular-condensed.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-regular-condensed.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GoldmanSans";
+    font-weight: 500;
+    font-style: normal;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-medium.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-medium.woff") format("woff");
+}
+@font-face {
+    font-family: "GoldmanSans";
+    font-weight: 500;
+    font-style: italic;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-medium-italic.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-medium-italic.woff2") format("woff");
+}
+
+@font-face {
+    font-family: "GoldmanSans";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold.woff2") format("woff");
+}
+
+@font-face {
+    font-family: "GoldmanSans";
+    font-weight: 700;
+    font-style: italic;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold-italic.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold-italic.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GoldmanSansCondensed";
+    font-weight: 700;
+    font-style: normal;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold-condensed.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-bold-condensed.woff") format("woff");
+}
+
+@font-face {
+    font-family: "GoldmanSans";
+    font-weight: 900;
+    font-style: normal;
+    src: url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-black.woff2") format("woff2"), url("https://cdn.gs.com/fonts/goldman-sans/v1/goldman-sans-black.woff") format("woff");
+}
+
+@font-face {
+    font-family: "Basis Grotesque";
+    font-weight: 300;
+    font-style: normal;
+    src: url("../sitefonts/basis/BasisGrotesqueArabicPro-Light.ttf");
+}
+
+@font-face {
+    font-family: "Basis Grotesque";
+    font-weight: 400;
+    font-style: normal;
+    src: url("../sitefonts/basis/BasisGrotesqueArabicPro-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Basis Grotesque";
+    font-weight: 500;
+    font-style: normal;
+    src: url("../sitefonts/basis/BasisGrotesqueArabicPro-Medium.ttf");
+}
+
+@font-face {
+    font-family: "Basis Grotesque";
+    font-weight: 600;
+    font-style: normal;
+    src: url("../sitefonts/basis/BasisGrotesqueArabicPro-Bold.ttf");
+}
+
+@font-face {
+    font-family: "Basis Grotesque";
+    font-weight: 700;
+    font-style: normal;
+    src: url("../sitefonts/basis/BasisGrotesqueArabicPro-Black.ttf");
+}

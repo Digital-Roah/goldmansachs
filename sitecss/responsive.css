@@ -1,0 +1,114 @@
+@media (max-width: 480px) {
+    .cookie-area-one a {
+        font-size: 13px;
+        line-height: 15px !important;
+    }
+    
+    .cookie-area-two a {
+        font-size: 13px;
+    }
+    
+    .cookie-area-two {
+        margin-bottom: 10px;
+    }
+
+    .overlay-cover {
+        margin-left: 30px;
+        margin-right: 30px;
+        min-height: 400px;
+    }
+
+    .outlook-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding: 20px 40px;
+        background: white;
+        width: 100%;
+        margin-top: -30px;
+        text-align: center;
+    }
+
+    .outlook-overlay h1 {
+        font-size: 35px;
+        font-weight: 300;
+    }
+
+    .outlook-overlay p {
+        margin-top: 20px;
+        color: black;
+    }
+
+    .btn-banner {
+        color: white;
+        border: 1px solid black;
+        background: black;
+        font-size: 11px;
+    }
+    
+    .btn-banner:hover {
+        color: black;
+        background: white;
+        border: 1px solid black;
+    }
+
+    .discover-area {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .discover-area .first-section h1 {
+        font-size: 35px;
+    }
+
+    .discover-area .first-section p {
+        font-size: 17px;
+    }
+
+    .institute-link {
+        margin-bottom: 0px;
+    }
+
+    .institute-link.corporate {
+        background: transparent;
+    }
+    
+    .institute-link.individual {
+        background: transparent;
+    }
+
+    .careerhome-textarea h1 {
+        font-size: 40px;
+    }
+
+    .careerhome-textarea p {
+        font-size: 18px;
+    }
+
+    .career-btn {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .breifings-area p {
+        font-size: 28px;
+        margin-top: 20px;
+    }
+
+    .footer-area .logo-footer {
+        margin-bottom: 20px;
+    }
+
+    .footer-area .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .other-banners h1 {
+        font-size: 45px;
+    }
+    
+    .other-banners p {
+        font-size: 16px;
+    }
+}
